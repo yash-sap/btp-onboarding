@@ -1,4 +1,4 @@
-This Mission describes the steps on how to integrate Joule with SAP Concur.
+**This Mission describes the steps on how to integrate Joule with SAP Concur.**
 
 <img src="images/Slide7 (1).jpeg"> 
 
