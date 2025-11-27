@@ -1,6 +1,6 @@
 **Pre-requisites:**
 
-As an SAP Concur customer, you can opt for the SAP Joule BASE SKU, which is a “0$” contract with options ranging from 1 year to 3 years. To sign up for this, you can visit the link here and follow the onscreen instructions. In case of any questions, please feel free to contact your SAP AE or the CSM.  During the contract process, you will be asked to select an SAP Business Technology Platform (SAP BTP) tenant where Joule needs to be contracted. If you are an SAP Concur-only customer and do not have an SAP BTP account, please select New BTP Account and proceed further.
+As an SAP Concur customer, you can opt for the SAP Joule BASE SKU, which is a “0$” contract with options ranging from 1 year to 3 years. To sign up for this, you can visit the [link here](https://www.sap.com/products/artificial-intelligence/joule-base-entitlement.html) and follow the onscreen instructions. In case of any questions, please feel free to contact your SAP AE or the CSM.  During the contract process, you will be asked to select an SAP Business Technology Platform (SAP BTP) tenant where Joule needs to be contracted. If you are an SAP Concur-only customer and do not have an SAP BTP account, please select New BTP Account and proceed further.
 
  
 
