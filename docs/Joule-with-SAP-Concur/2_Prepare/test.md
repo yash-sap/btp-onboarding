@@ -8,15 +8,15 @@ As an SAP Concur customer, you can opt for the SAP Joule BASE SKU, which is a â€
 
 If you are an SAP Concur-only customer, without an SAP footprint
 You may have to register yourself first, follow the onscreen instructions in the SAP Store â€“ Buy as a customer. Refer to this document for more information - [Joule Base Entitlement](https://www.linkedin.com/feed/update/urn:li:activity:7377036423763472385/)
-If you are an and do not have a BTP Account, it will be provisioned free of cost along with Joule
+If you are an SAP customer and do not have a BTP Account, it will be provisioned free of cost along with Joule
 Provisioning of **new** BTP Accounts and Joule contracts may take less than 24 hours, at times up to 48 hours.
 If you are **new** to SAP BTP and would like to get familiar, you can request a session [here](https://support.sap.com/en/product/onboarding-resource-center/business-technology-platform.html)
 If you have an **existing SAP BTP account**, we recommend using the existing accounts and avoiding creating a new one
 Joule requires **SAP Cloud Identity Services (SAP CIS)**.
 You can configure your SSO with SAP Concur with SAP CIS as IDP, or
-You can configure your SSO with SAP Concur with SAP CIS as a proxy. In case you have an existing IDP, like MS Azure/OKTA, you can continue using it; however, you need to replicate the users in your SAP CIS. You can find more details as you read below
+You can configure your SSO with SAP Concur with SAP CIS as IDP, or You can configure your SSO with SAP Concur with SAP CIS as a proxy In case you have an existing IDP, like MS Azure/OKTA, you can continue using it and set up SAP CIS as proxy; however, you need to replicate the users in your SAP CIS. You can find more details as you read below
 SAP Concur gives you the option to have multiple SSOs. In case you would like to try with a few users to log in via SAP CIS, you can do so. This ensures that you do not change the entire setup or impact all the users during the testing process. 
-If you do not have SAP Cloud Identity Services as a Concur-Only customer, you can activate up to 2 tenants (test/prod) from your SAP BTP Account free of cost. For more information, refer to the Discovery Center Mission [here](https://discovery-center.cloud.sap/missiondetail/4325/4605/). 
+Here is the updated Joule documentation link, https://help.sap.com/docs/joule/integrating-joule-with-sap/getting-started-with-joule-basic. Please refer to the information here.
 In case you are not sure of the available SAP Cloud Identity Services for you, please validate -
 Joule contracts can only be sold once to a customer. If you have the Joule Base or SAP AI Units contracts, you do not have to sign new contracts, and you are good to go ahead with the setup of Joule with SAP Concur.
 
